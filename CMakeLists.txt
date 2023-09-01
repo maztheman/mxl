@@ -39,7 +39,7 @@ include(${_project_options_SOURCE_DIR}/Index.cmake)
 project(
   mxl_project
   VERSION 0.3.0
-  DESCRIPTION "NES Emulator (cycle accurate)"
+  DESCRIPTION "Excel 98 binary reader"
   HOMEPAGE_URL "%%myurl%%"
   LANGUAGES CXX C)
 
